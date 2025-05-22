@@ -1,0 +1,7 @@
+# requirements.txt for GPT-AHK2
+pyperclip
+pyautogui
+keyboard
+cerebras-cloud-sdk
+pystray
+Pillow
